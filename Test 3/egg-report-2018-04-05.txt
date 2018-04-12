@@ -1,0 +1,8 @@
+
+====================BABA TIME====================
+Vsichki boqdisani qica sa 50 na broi
+Vsichki shareni qica sa 10 na broi
+Vsichki gushi qica koito sa zeleni sa 5 na broi
+Burkana boqdisal nai-mnogo qica e : ZELEN
+Deteto boqdisalo nai-mnogo qica e : Dete [name=Ivan Markov]
+
